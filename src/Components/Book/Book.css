@@ -1,0 +1,34 @@
+.bookCss{
+    height: 330px;
+    width: 250px;
+    background-color: rgb(216, 223, 203);
+    margin: 5px;
+    border-radius: 10px;
+}
+.bookCss img{
+    height: 150px;
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+}
+.bookCss h3,h4,p{
+    text-align: center;
+   margin: 0;
+   padding: 0px 5px;
+
+}
+.bookCss button{
+    background-color: goldenrod;
+    width: 100%;
+    height: 35px;
+    outline: none;
+    border: 1px solid gold;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.icon-color{
+    color: gold;
+    text-align: center;
+ 
+}

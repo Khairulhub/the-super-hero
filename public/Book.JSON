@@ -1,0 +1,110 @@
+[
+  {
+    "key": 1,
+    "name": 1984,
+    "Author": "George Orwell",
+    "img": "https://www.oberlo.com/media/1603897567-image39-1.jpg?fm=webp&w=1824&fit=max",
+    "price": 150,
+    "read": "Classic Novels",
+    "star": 3
+  },
+  {
+    "key": 2,
+    "name": "The Lord of the Rings",
+    "Author": "J.R.R. Tolkien",
+    "img": "https://www.oberlo.com/media/1603897585-image12-1.jpg?fm=webp&w=1824&fit=max",
+    "price": 130,
+    "read": "Classic Novels",
+    "star": 4
+  },
+  {
+    "key": 3,
+    "name": "The Kite Runner",
+    "Author": "Khaled Hosseini",
+    "img": "https://www.oberlo.com/media/1603897583-image17-1.jpg?fm=webp&w=1824&fit=max",
+    "price": 120,
+    "read": "Classic Novels",
+    "star": 4
+  },
+  {
+    "key": 4,
+    "name": "The Kite Runner",
+    "Author": "Khaled Hosseini",
+    "img": "https://www.oberlo.com/media/1603897583-image17-1.jpg?fm=webp&w=1824&fit=max",
+    "price": 120,
+    "read": "Classic Novels",
+    "star": 5
+  },
+  {
+    "key": 5,
+    "name": "Harry Potter and the Philosopher’s Stone",
+    "Author": "J.K. Rowling",
+    "img": "https://www.oberlo.com/media/1603897577-image22-1.jpg?fm=webp&w=1824&fit=max",
+    "price": 130,
+    "read": "Classic Novels",
+    "star": 4
+  },
+  {
+    "key": 6,
+    "name": "Slaughterhouse-Five ",
+    "Author": "Kurt Vonnegut",
+    "img": "https://www.oberlo.com/media/1603897566-image41.jpg?fm=webp&w=1824&fit=max",
+    "price": 180,
+    "read": "Classic Novels",
+    "star": 4
+  },
+  {
+    "key": 7,
+    "name": "The Lion, the Witch, and the Wardrobe",
+    "Author": "C.S. Lewis",
+    "img": "https://www.oberlo.com/media/1603897587-image5.jpg?fm=webp&w=1824&fit=max",
+    "price": 220,
+    "read": "Classic Novels",
+    "star": 4
+  },
+  {
+    "key": 8,
+    "name": "The Catcher in the Rye ",
+    "Author": "J.D. Salinger",
+    "img": "https://www.oberlo.com/media/1603897573-image35.jpg?fm=webp&w=1824&fit=max",
+    "price": 210,
+    "read": "Classic Novels",
+    "star": 5
+  },
+  {
+    "key": 9,
+    "name": "Jane Eyre",
+    "Author": "Charlotte Bronte",
+    "img": "https://www.oberlo.com/media/1603897573-image38-1.jpg?fm=webp&w=1824&fit=max",
+    "price": 100,
+    "read": "Classic Novels",
+    "star": 4
+  },
+  {
+    "key": 10,
+    "name": " Fahrenheit 451 ",
+    "Author": "Ray Bradbury",
+    "img": "https://www.oberlo.com/media/1603897578-image19-2.jpg?fm=webp&w=1824&fit=max",
+    "price": 110,
+    "read": "Classic Novels",
+    "star": 4
+  },
+  {
+    "key": 11,
+    "name": "Charlotte’s Web",
+    "Author": "E.B. White",
+    "img": "https://www.oberlo.com/media/1603897574-image32-1.jpg?fm=webp&w=1824&fit=max",
+    "price": 50,
+    "read": "Classic Novels",
+    "star": 4
+  },
+  {
+    "key": 12,
+    "name": "Frankenstein",
+    "Author": "E.B. White",
+    "img": "https://www.oberlo.com/media/1603897587-image8-2.jpg?fm=webp&w=1824&fit=max",
+    "price": 50,
+    "read": "Classic Novels",
+    "star": 4
+  }
+]
